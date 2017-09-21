@@ -1,2 +1,3 @@
 # websites-of-the-NFL
-websites 
+websites
+NFL Schedule http://www.siriusxm.com/nflschedule
